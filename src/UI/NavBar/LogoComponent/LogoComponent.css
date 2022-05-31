@@ -1,0 +1,9 @@
+.logo {
+    width: 50px;
+    padding: 10px;
+}
+
+.logo-email {
+    display: flex;
+    align-items: center;
+}

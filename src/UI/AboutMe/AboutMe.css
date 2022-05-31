@@ -1,0 +1,10 @@
+.paragraph {
+    display: flex;
+    margin-left: 100px;
+}
+
+.paragraph img {
+    width: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+}

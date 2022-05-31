@@ -1,0 +1,13 @@
+.NabBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px 0px 100px;
+}
+
+.menu-panel {
+    display: flex;
+}
+
+.menu-panel div {
+    margin: 10px;
+}
